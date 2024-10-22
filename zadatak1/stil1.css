@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face {
+ font-family: "Kaushan Script"; }
+ 
+body {background-color: #B9E5E8;}
+p{ text-align: center; 
+    align-content: center; 
+	color: #1F316F;
+	padding: 20px; 
+	margin: 20px; 
+	border: 5px dotted white;
+	width: 50%;
+	position: relative;
+	align-self: center;
+	top: 20%;
+    left: 20%;}
+
+
+h1 {font-family: "Kaushan Script";
+font-style: Cursive;
+font-weight: 80px;
+	font-size: 50px;
+	color: #5B99C2; 
+	text-align: center;}
+
+h2 {font-family: "Kaushan Script", Cursive;
+	font-size: 35px;
+	color: #4158A6; 
+	text-align: center;
+    margin-top: 50px;}
+
+
+pozadina {background-color: #B9E5E8;}
+
+
+img { height: 200px;
+      align-content: center;
+	  margin-top: 20px;}
